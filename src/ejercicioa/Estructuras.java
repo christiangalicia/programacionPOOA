@@ -67,10 +67,12 @@ public class Estructuras {
         boolean b = 5 > 4; // true
         boolean c = 4 < 2; // false
         boolean d = 3 >= 3; // true
+        boolean f1= 4<=4; //true menor que
+        
         boolean e = 5 != 5;//false
 
         //logica
-        boolean f = 5 > 5 && 4 > 2; // and y ; false
+        boolean fz = 5 > 5 && 4 > 2; // and y ; false
         boolean g = 5 > 5 || 4 > 2; // or o ; true
         boolean h = !(5 > 5);  //true
     }
